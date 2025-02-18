@@ -15,6 +15,6 @@ CYTC 2025
 
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
 
-[GOOGLE](https://www.google.com)
+<https://www.google.com>
 
 
