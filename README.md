@@ -6,6 +6,8 @@ Hi! I’m Jeffrey, an app developer dedicated to building apps that enhance prod
 
 You can see my portfolio at linktr.ee/jeffreywckin
 
+[a link](linktr.ee/jeffreywckin)
+
 Thank you. 
 
 CYTC 2025
