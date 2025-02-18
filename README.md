@@ -6,8 +6,13 @@ Hi! I’m Jeffrey, an app developer dedicated to building apps that enhance prod
 
 You can see my portfolio at linktr.ee/jeffreywckin 
 
-[Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
-
 Thank you. 
 
 CYTC 2025
+
+
+
+
+[Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
+
+
