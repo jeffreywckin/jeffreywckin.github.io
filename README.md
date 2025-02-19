@@ -10,13 +10,9 @@ Thank you.
 
 CYTC 2025
 
-Text Browser Free
+Text Browser Free:[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
-
-Text Browser 
-
-[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
+Text Browser:[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
 
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
  
