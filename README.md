@@ -10,6 +10,8 @@ Thank you.
 
 CYTC 2025
 
+![Jeffrey_screenshot](Jeffrey_Profile.jpg)
+
 Jeffrey:  [My Linktree](https://linktr.ee/jeffreywckin)
 
 Text Browser Free:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
