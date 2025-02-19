@@ -10,11 +10,11 @@ Thank you.
 
 CYTC 2025
 
-Jeffrey: [My Linktree](https://linktr.ee/jeffreywckin)
+Jeffrey:  [My Linktree](https://linktr.ee/jeffreywckin)
 
-Text Browser Free:[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
+Text Browser Free:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
 
-Text Browser:[Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
+Text Browser:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
 
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
  
