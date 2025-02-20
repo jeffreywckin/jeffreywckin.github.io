@@ -18,6 +18,8 @@ Text Browser Free:  [Get it on Google Play](https://play.google.com/store/apps/d
 
 Text Browser:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
 
+If the apps encounter any problems, please email me at [jeffreywckin@gmail.com](mailto:jeffreywckin@gmail.com) to let me know."
+
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
  
 
