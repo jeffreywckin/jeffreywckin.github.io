@@ -22,5 +22,5 @@ If the apps encounter any problems, please email me at [jeffreywckin@gmail.com](
 
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
  
-
+---
 
