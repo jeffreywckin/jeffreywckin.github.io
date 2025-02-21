@@ -16,16 +16,17 @@ CYTC 2025
 
 Jeffrey:  [My Linktree](https://linktr.ee/jeffreywckin)
 
-Text Browser Free:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
+Text Browser Free 文字閱讀 免費版:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser_free)
 
-Text Browser:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
+Text Browser 文字閱讀 完整版:  [Get it on Google Play](https://play.google.com/store/apps/details?id=jeffrey.cytc.text_browser)
 
 If the apps encounter any problems, please email me at [jeffreywckin@gmail.com](mailto:jeffreywckin@gmail.com) to let me know.
+如果應用程式遇到任何問題，請發送電子郵件至 jeffreywckin@gmail.com 。
 
-[Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
+[Privacy Policy 隱私政策](https://jeffreywckin.github.io/privacy.txt)
  
 ---
-Learning English Material Archive
+Learning English Material Archive 英語學習資料庫
 
 [001-Making Words](https://jeffreywckin.github.io/001-Making-Words.html)
 
