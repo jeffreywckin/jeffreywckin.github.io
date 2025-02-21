@@ -25,4 +25,7 @@ If the apps encounter any problems, please email me at [jeffreywckin@gmail.com](
 [Privacy Policy](https://jeffreywckin.github.io/privacy.txt)
  
 ---
+Learning English Material Archive
+
+[001-Making Words](https://jeffreywckin.github.io/001-Making-Words.html)
 
