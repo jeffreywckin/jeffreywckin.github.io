@@ -38,3 +38,5 @@ Learning English Material Archive 英語學習資料庫
 [004 - Common Nouns and Proper Nouns](https://jeffreywckin.github.io/004-Common_Nouns_and_Proper_Nouns.html)
 
 [005 - Collective-Nouns](https://jeffreywckin.github.io/005-Collective-Nouns.html)
+
+[006 - Pronouns](https://jeffreywckin.github.io/006-Pronouns.html)
