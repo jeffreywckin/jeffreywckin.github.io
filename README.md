@@ -43,3 +43,5 @@ Learning English Material Archive 英語學習資料庫
 
 [007 - Adjectives](https://jeffreywckin.github.io/007-Adjectives.html)
 
+[008 - Adjectives of Comparison](https://jeffreywckin.github.io/008-Adjectives-of-Comparison.html)
+
