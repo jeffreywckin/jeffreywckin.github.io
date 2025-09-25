@@ -47,5 +47,7 @@ Learning English Material Archive 英語學習資料庫
 
 [009 - Synonyms and Antonyms](https://jeffreywckin.github.io/009-Synonyms-and-Antonyms.html)
 
+[010 - Verbs](https://jeffreywckin.github.io/010-Verbs.html)
+
 
 
